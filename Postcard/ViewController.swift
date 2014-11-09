@@ -42,7 +42,7 @@ class ViewController: UIViewController {
         enterMessageTextField.resignFirstResponder()
         enterNameTextField.resignFirstResponder()
         
-        mailButton.setTitle("Roscoe took it", forState: UIControlState.Normal)
+        mailButton.setTitle("Roscoe sent it", forState: UIControlState.Normal)
     }
 
 }
